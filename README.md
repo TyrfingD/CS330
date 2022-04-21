@@ -1,1 +1,10 @@
 # CS330
+
+Since I have no prior experience in computer graphics, everything in this course was something new for me. From vertex positions to shaders and camera movements.
+As demonstrated by my submission for our sixth module's assignment, I have learned to successfully produce a unique light source in a scene, with varying properties like intensity and color.
+I am unsure about my ability to add additional sources of light to a scene. My initial attempt at module five's assignment shows an error in my application of a texture as well. These are all skills that I could keep working on through research, trail, and error in the future. SNHU itself provides resources for furthering these skills. On that note, the questions I could ask about further subjects in computational graphics and visualizations are nearly endless. Just one example is that we have learned about using time functions to control movement speeds and "step forward" through a scene, but how could that process be reversed to "rewind" actions in a scene? Could prerecorded changes or events be applied to only part of a scene?
+
+Iteration strongly factored into the final project of this course. Each week I learned a new concept and updated my project to include that concept specifically. Starting with drawing a simple 3D shape out of triangles, then moving on to camera controls, textures, and finally light sources.
+Trying to create such a project all at once would be overwhelming, while coding in small steps not only helps direct one's focus, but also helps to identify errors early before they get lost in the code.
+
+While my ideal career would be in science research and not specifically coding, I know from my undergrade research work that 3D modelling is a significant part of physics research. One aspect of high energy particle physics involves digitally modelling interactions that would be too small or rapid to visualize any other way. It is also important to be able to design a new part for a machine like a particle detector or a container for a radiation source on a computer before building it in a machine shop.
